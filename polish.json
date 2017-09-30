@@ -1,0 +1,21 @@
+{
+	"name": "polish",
+	"code": "pl",
+	"value":
+	{
+		"home": "Strona Główna",
+		"servers": "Lista Serwerów",
+		"direct_connect": "Połącz bezpośrednio",
+		"directsub": "Graj teraz!",
+		"settings": "Ustawienia",
+		"settingssub": "cuztomize, change, dominate!",
+		"nickname": "Twój pseudonim:",
+		"path": "Ścieżka gry",
+		"aboutus": "O Nas",
+		"support": "Wsparcie",
+		"yeap": "Tak",
+		"cpath": "Zmienić ścieżkę gry?",
+		"cnickname": "Zmienić pseudonim??",
+		"quit": "Wyjście"
+	}
+}
